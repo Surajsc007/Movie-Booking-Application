@@ -2,7 +2,7 @@
 
 Checkout Project: https://mernbookingapp.netlify.app/
 
-#Preview
+# Preview
 
 ![image](https://user-images.githubusercontent.com/85945160/227735895-ef69f160-9639-4a48-a149-6fd2ea38b954.png)
 
